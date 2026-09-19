@@ -2,16 +2,27 @@
 A SAP-based backend application designed to streamline procurement and inventory management by managing vendors, purchase requisitions, purchase orders, goods receipts, and inventory operations.
 
 🚀 Features
+
 Vendor management and tracking
+
 Purchase Requisition (PR) creation and approval
+
 Purchase Order (PO) management
+
 Goods Receipt and stock updates
+
 Inventory and warehouse management
+
 Low-stock monitoring
+
 Procurement analytics and reporting
+
 Business logic implemented using ABAP Objects
+
 Data modeling and analytical views using CDS
+
 RESTful APIs using RAP and OData
+
 
 🛠️ Technology Stack
 SAP ABAP
