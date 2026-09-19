@@ -51,18 +51,31 @@ SAP Fiori / UI integration
 🏗️ Architecture
 
 SAP HANA
+
     ↓
+    
 ABAP Dictionary / Database Tables
+
     ↓
+    
 ABAP OO Business Logic
+
     ↓
+    
 CDS Views
+
     ↓
+    
 RAP Business Objects
+ 
     ↓
+    
 OData Services
+
     ↓
+    
 Fiori / Frontend
+
 
 📦 Core Modules
 
